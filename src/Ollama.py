@@ -1,3 +1,3 @@
-from langchain_ollama.llms import OllamaLLM
+import os
 
-llm = OllamaLLM(model='llama3')
+print(os.system("python --version"))
