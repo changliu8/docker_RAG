@@ -1,0 +1,13 @@
+.\RAG\Scripts\activate
+
+python -m pip install --upgrade
+
+
+# python -m pip install langchain-community
+# python -m pip install
+# pip install -U langchain-ollama
+# python -m pip install sentence-transformers
+# python -m pip install faiss-gpu
+# python -m pip install pypdf
+## ollama pull llama3
+python -m pip install -r requirements.txt
